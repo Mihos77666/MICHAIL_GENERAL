@@ -1,0 +1,10 @@
+{
+    "client_id": "b813b51e-16c0-4c2d-a408-bccee9d7c38f",
+    "client_secret":"Ptw8Q~SOdYUTrPi_cjnnxugNirjjaNLqzBqgHaee",
+    "org_id":"org5854786e",
+    "authority":"https://login.microsoftonline.com/c06955b3-27ae-41e3-9cba-33e69d12e3e8",
+    "tenant_id":"c06955b3-27ae-41e3-9cba-33e69d12e3e8",
+    "scope":["https://org5854786e.api.crm.dynamics.com/.default"],
+    "url":"https://org5854786e.api.crm.dynamics.com/",
+    "api_version":"v9.2"
+}
